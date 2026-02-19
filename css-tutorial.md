@@ -75,6 +75,8 @@ CSS สามารถใช้งานได้ 3 วิธี:
     cursor: pointer;
 }
 ```
+![lab1](images/lab1.png)
+
 [](#การทดลองที่-2-selectors-ใน-CSS)
 ## การทดลองที่ 2: Selectors ใน CSS
 CSS Selector คือวิธีการระบุหรือเลือกองค์ประกอบ (elements) ที่เราต้องการจัดรูปแบบใน HTML โดยมีประเภทหลัก ๆ ดังนี้:
